@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ExerciseAppKuji</string>
+    <string name="CreateNewJournal">Create New Journal</string>
+    <string name="AddToExistingJournal">Add to Existing Journal</string>
+    <string name="CreateNewJournal_Button">Create</string>
+    <string name="AddToExistingJournal_Button">Add</string>
 </resources>
